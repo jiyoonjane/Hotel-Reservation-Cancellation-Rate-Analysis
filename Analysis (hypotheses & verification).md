@@ -109,7 +109,7 @@ plt.savefig('figures/new_ms_cancel.png',bbox_inches='tight')
 
 # 2. Hotel Cancellation Timing Patterns
 
-We examine two hypotheses about how cancellation rates vary by month and by weekday vs. weekend, and by hotel type.
+Examine two hypotheses about how cancellation rates vary by month and by weekday vs. weekend, and by hotel type.
 
 ## Hypothesis 1: Cancellation Rate Differs by Month
 
@@ -233,7 +233,7 @@ plt.savefig('figures/weekend_weekday_cancel.png', bbox_inches='tight')
 ---
 # 3. Booking-Level Cancellation Patterns
 
-We analyze how deposit policy, market segment, and lead time anomalies relate to cancellation behavior.
+Analyze how deposit policy, market segment, and lead time anomalies relate to cancellation behavior.
 
 ## Cancellation Rate by Deposit Type
 
@@ -343,7 +343,7 @@ plt.savefig('figures/cancel_by_segment.png', bbox_inches='tight')
 
 # 4. Lead Time vs. Cancellation Analysis
 
-We test whether longer lead times (days between booking and check-in) increase cancellation probability.
+Test whether longer lead times (days between booking and check-in) increase cancellation probability.
 
 ## Hypotheses
 
