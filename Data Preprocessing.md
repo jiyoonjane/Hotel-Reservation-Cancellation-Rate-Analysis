@@ -78,7 +78,7 @@
 
 These steps ensure a clean, model-ready dataset for subsequent EDA, statistical testing, and logistic regression modeling.
 
-##  Preprocessing Code Example
+##  Preprocessing Code 
 
 ```python
 import pandas as pd
