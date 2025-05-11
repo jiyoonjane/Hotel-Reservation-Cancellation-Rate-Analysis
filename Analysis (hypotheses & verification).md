@@ -1,4 +1,4 @@
-# 3. Hypotheses & Verification
+#  Hypotheses & Verification
 
 ## 1. Cancellation Rate by Customer Segment
 
