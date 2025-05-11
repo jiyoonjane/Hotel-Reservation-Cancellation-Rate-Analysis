@@ -1,7 +1,7 @@
 
 #  Introduction
 
-##  Topic Selection & Project Objectives
+##  Project Objectives
 
 ### Background
 
