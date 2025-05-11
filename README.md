@@ -95,29 +95,6 @@ This project leverages data visualization and analysis in Python to uncover canc
 
 ---
 
-## 5. Logistic Regression Insights
-
-* **High-Risk Groups:**
-
-  * Transient (solo) bookings: ×4.24 odds of cancellation
-  * TA/TO channel: ×2.18 odds
-  * Repeat cancellers: ×5.46 odds
-* **Protective Factors:**
-
-  * Multiple amendments: 37% lower odds
-  * Special requests: 51% lower odds
-  * Parking request: 99.98% lower odds
-* **Hotel Type:**
-
-  * City hotels: higher cancellation risk vs. resorts
-
-**Expected Actions:**
-
-* Incentivize direct and refundable bookings (discounts, amenities).
-* Implement cancellation‑score policies for habitual cancellers.
-* Encourage bookings with special requests and flexible amendments.
-
----
 
 ##  Key Takeaways & Next Steps
 
